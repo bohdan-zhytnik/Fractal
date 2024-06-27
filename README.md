@@ -1,7 +1,6 @@
-# Semestral Project for B3B36PRG
+# Semestral Project for PRG
 
-This repository contains the semestral project I completed for the course **B3B36PRG (Programming in C)** at the Czech Technical University (ČVUT). The project was successfully completed and includes all relevant files and documentation.
-
+This repository contains the semestral project I completed for the course **PRG (Programming in C)** at the CTU (Czech Technical University). 
 ## Project Description
 
 ### Project Title: [Insert Project Title Here]

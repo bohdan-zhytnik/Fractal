@@ -4,7 +4,7 @@ This repository contains the semestral project I completed for the course **PRG 
 ## Project Description
 ### Overview
 
-The goal of this semestral project was to develop a C application that fulfills a specific set of requirements defined by the course. The project aimed to test and enhance our understanding and skills in C programming through practical application.
+The goal of this semestral project was to develop a C multi-threaded application that calculates fractals, i.e., maps a dynamic system in part of the complex plane to a 2D image. Specifically, it involves the calculation of the Julia set
 
 ### Key Objectives
 

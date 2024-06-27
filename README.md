@@ -18,4 +18,4 @@ The goal of this semestral project was to develop a C multi-threaded application
 
 I developed an application that allows for the calculation of various fractals and even generates animations where the displayed fractals change due to continuously varying parameters.
 
-![Demonstration of the application](Animation.gif)
+![Demonstration of the application](Fractal_Animation.gif)

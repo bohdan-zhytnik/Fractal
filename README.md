@@ -1,10 +1,7 @@
-# Semestral Project for PRG
+# Fractal
 
 This repository contains the semestral project I completed for the course **PRG (Programming in C)** at the CTU (Czech Technical University). 
 ## Project Description
-
-### Project Title: [Insert Project Title Here]
-
 ### Overview
 
 The goal of this semestral project was to develop a C application that fulfills a specific set of requirements defined by the course. The project aimed to test and enhance our understanding and skills in C programming through practical application.

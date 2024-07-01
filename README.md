@@ -6,7 +6,7 @@ This repository contains the semestral project I completed for the course **PRG 
 
 ### Overview
 
-The goal of this semestral project was to develop a C multi-threaded application that calculates fractals, i.e., maps a dynamic system in part of the complex plane to a 2D image. Specifically, it involves the calculation of the Julia set.
+The goal of this project was to develop a C multi-threaded application that calculates fractals, i.e., maps a dynamic system in part of the complex plane to a 2D image. Specifically, it involves the calculation of the Julia set.
 
 ### Key Objectives
 
